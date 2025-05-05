@@ -1,9 +1,1 @@
-2025-05-05 15:53:06 [SERVER STARTED] - webRoot=C:\localWebSite webIP=10.0.0.32 webPort=13000
-2025-05-05 15:53:43 [REQUEST]  - verb=GET resource=/aaa.png
-2025-05-05 15:53:43 [RESPONSE] - Status Code=415 Unsupported Media Type
-2025-05-05 15:53:44 [REQUEST]  - verb=GET resource=/favicon.ico
-2025-05-05 15:53:44 [RESPONSE] - Status Code=415 Unsupported Media Type
-2025-05-05 15:54:13 [REQUEST]  - verb=GET resource=/wddExamples.html
-2025-05-05 15:54:13 [RESPONSE] - Content-Type=text/html Content-Length=11277 Server=Web-Server
-2025-05-05 15:54:14 [REQUEST]  - verb=GET resource=/favicon.ico
-2025-05-05 15:54:14 [RESPONSE] - Status Code=415 Unsupported Media Type
+2025-05-05 16:14:35 [SERVER STARTED] - webRoot=C:\localWebSite webIP=10.0.0.32 webPort=13000

@@ -6,19 +6,19 @@
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Web-Server||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73B75F32-FEBC-4989-98F9-23D1A4082B33}|myOwnWebServer\\Web-Server.csproj|c:\\users\\admmo\\desktop\\backup\\onedrive - conestoga college\\sem 3\\wdd\\projects\\a5_webserver\\myownwebserver\\web-server\\myownwebserver\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73B75F32-FEBC-4989-98F9-23D1A4082B33}|myOwnWebServer\\Web-Server.csproj|solutionrelative:myownwebserver\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{73B75F32-FEBC-4989-98F9-23D1A4082B33}|Web-Server\\Web-Server.csproj|c:\\users\\admmo\\desktop\\backup\\onedrive - conestoga college\\sem 3\\wdd\\projects\\a5_webserver\\myownwebserver\\web-server\\web-server\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B75F32-FEBC-4989-98F9-23D1A4082B33}|Web-Server\\Web-Server.csproj|solutionrelative:web-server\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73B75F32-FEBC-4989-98F9-23D1A4082B33}|myOwnWebServer\\Web-Server.csproj|c:\\users\\admmo\\desktop\\backup\\onedrive - conestoga college\\sem 3\\wdd\\projects\\a5_webserver\\myownwebserver\\web-server\\myownwebserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73B75F32-FEBC-4989-98F9-23D1A4082B33}|myOwnWebServer\\Web-Server.csproj|solutionrelative:myownwebserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{73B75F32-FEBC-4989-98F9-23D1A4082B33}|Web-Server\\Web-Server.csproj|c:\\users\\admmo\\desktop\\backup\\onedrive - conestoga college\\sem 3\\wdd\\projects\\a5_webserver\\myownwebserver\\web-server\\web-server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B75F32-FEBC-4989-98F9-23D1A4082B33}|Web-Server\\Web-Server.csproj|solutionrelative:web-server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73B75F32-FEBC-4989-98F9-23D1A4082B33}|myOwnWebServer\\myOwnWebServer.csproj|c:\\users\\admmo\\desktop\\backup\\onedrive - conestoga college\\sem 3\\wdd\\projects\\a5_webserver\\myownwebserver\\web-server\\myownwebserver\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73B75F32-FEBC-4989-98F9-23D1A4082B33}|myOwnWebServer\\myOwnWebServer.csproj|solutionrelative:myownwebserver\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{73B75F32-FEBC-4989-98F9-23D1A4082B33}|Web-Server\\Web-Server.csproj|c:\\users\\admmo\\desktop\\backup\\onedrive - conestoga college\\sem 3\\wdd\\projects\\a5_webserver\\myownwebserver\\web-server\\web-server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73B75F32-FEBC-4989-98F9-23D1A4082B33}|Web-Server\\Web-Server.csproj|solutionrelative:web-server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73B75F32-FEBC-4989-98F9-23D1A4082B33}|myOwnWebServer\\Web-Server.csproj|c:\\users\\admmo\\desktop\\backup\\onedrive - conestoga college\\sem 3\\wdd\\projects\\a5_webserver\\myownwebserver\\web-server\\myownwebserver\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|6185191f-1008-4fb2-a715-3a4e4f27e610"
+      "AbsoluteMoniker": "D:0:0:{73B75F32-FEBC-4989-98F9-23D1A4082B33}|Web-Server\\Web-Server.csproj|c:\\users\\admmo\\desktop\\backup\\onedrive - conestoga college\\sem 3\\wdd\\projects\\a5_webserver\\myownwebserver\\web-server\\web-server\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|6185191f-1008-4fb2-a715-3a4e4f27e610"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,51 +34,51 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Web-Server",
-              "DocumentMoniker": "C:\\Users\\admmo\\Desktop\\Backup\\OneDrive - Conestoga College\\Sem 3\\WDD\\Projects\\A5_WebServer\\myOwnWebServer\\Web-Server\\myOwnWebServer\\Web-Server.csproj",
-              "RelativeDocumentMoniker": "myOwnWebServer\\Web-Server.csproj",
-              "ToolTip": "C:\\Users\\admmo\\Desktop\\Backup\\OneDrive - Conestoga College\\Sem 3\\WDD\\Projects\\A5_WebServer\\myOwnWebServer\\Web-Server\\myOwnWebServer\\Web-Server.csproj",
-              "RelativeToolTip": "myOwnWebServer\\Web-Server.csproj",
+              "DocumentMoniker": "C:\\Users\\admmo\\Desktop\\Backup\\OneDrive - Conestoga College\\Sem 3\\WDD\\Projects\\A5_WebServer\\myOwnWebServer\\Web-Server\\Web-Server\\Web-Server.csproj",
+              "RelativeDocumentMoniker": "Web-Server\\Web-Server.csproj",
+              "ToolTip": "C:\\Users\\admmo\\Desktop\\Backup\\OneDrive - Conestoga College\\Sem 3\\WDD\\Projects\\A5_WebServer\\myOwnWebServer\\Web-Server\\Web-Server\\Web-Server.csproj",
+              "RelativeToolTip": "Web-Server\\Web-Server.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-05-05T19:50:31.956Z",
+              "WhenOpened": "2025-05-05T20:14:25.42Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Server.cs",
-              "DocumentMoniker": "C:\\Users\\admmo\\Desktop\\Backup\\OneDrive - Conestoga College\\Sem 3\\WDD\\Projects\\A5_WebServer\\myOwnWebServer\\Web-Server\\myOwnWebServer\\Server.cs",
-              "RelativeDocumentMoniker": "myOwnWebServer\\Server.cs",
-              "ToolTip": "C:\\Users\\admmo\\Desktop\\Backup\\OneDrive - Conestoga College\\Sem 3\\WDD\\Projects\\A5_WebServer\\myOwnWebServer\\Web-Server\\myOwnWebServer\\Server.cs",
-              "RelativeToolTip": "myOwnWebServer\\Server.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Title": "Log.cs",
+              "DocumentMoniker": "C:\\Users\\admmo\\Desktop\\Backup\\OneDrive - Conestoga College\\Sem 3\\WDD\\Projects\\A5_WebServer\\myOwnWebServer\\Web-Server\\Web-Server\\Log.cs",
+              "RelativeDocumentMoniker": "Web-Server\\Log.cs",
+              "ToolTip": "C:\\Users\\admmo\\Desktop\\Backup\\OneDrive - Conestoga College\\Sem 3\\WDD\\Projects\\A5_WebServer\\myOwnWebServer\\Web-Server\\Web-Server\\Log.cs",
+              "RelativeToolTip": "Web-Server\\Log.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T19:46:12.707Z",
+              "WhenOpened": "2025-05-05T20:14:11.729Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\admmo\\Desktop\\Backup\\OneDrive - Conestoga College\\Sem 3\\WDD\\Projects\\A5_WebServer\\myOwnWebServer\\Web-Server\\myOwnWebServer\\Program.cs",
-              "RelativeDocumentMoniker": "myOwnWebServer\\Program.cs",
-              "ToolTip": "C:\\Users\\admmo\\Desktop\\Backup\\OneDrive - Conestoga College\\Sem 3\\WDD\\Projects\\A5_WebServer\\myOwnWebServer\\Web-Server\\myOwnWebServer\\Program.cs",
-              "RelativeToolTip": "myOwnWebServer\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAATAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\admmo\\Desktop\\Backup\\OneDrive - Conestoga College\\Sem 3\\WDD\\Projects\\A5_WebServer\\myOwnWebServer\\Web-Server\\Web-Server\\Program.cs",
+              "RelativeDocumentMoniker": "Web-Server\\Program.cs",
+              "ToolTip": "C:\\Users\\admmo\\Desktop\\Backup\\OneDrive - Conestoga College\\Sem 3\\WDD\\Projects\\A5_WebServer\\myOwnWebServer\\Web-Server\\Web-Server\\Program.cs",
+              "RelativeToolTip": "Web-Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T19:46:12.727Z",
+              "WhenOpened": "2025-05-05T20:14:10.358Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Log.cs",
-              "DocumentMoniker": "C:\\Users\\admmo\\Desktop\\Backup\\OneDrive - Conestoga College\\Sem 3\\WDD\\Projects\\A5_WebServer\\myOwnWebServer\\Web-Server\\myOwnWebServer\\Log.cs",
-              "RelativeDocumentMoniker": "myOwnWebServer\\Log.cs",
-              "ToolTip": "C:\\Users\\admmo\\Desktop\\Backup\\OneDrive - Conestoga College\\Sem 3\\WDD\\Projects\\A5_WebServer\\myOwnWebServer\\Web-Server\\myOwnWebServer\\Log.cs",
-              "RelativeToolTip": "myOwnWebServer\\Log.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\admmo\\Desktop\\Backup\\OneDrive - Conestoga College\\Sem 3\\WDD\\Projects\\A5_WebServer\\myOwnWebServer\\Web-Server\\Web-Server\\Server.cs",
+              "RelativeDocumentMoniker": "Web-Server\\Server.cs",
+              "ToolTip": "C:\\Users\\admmo\\Desktop\\Backup\\OneDrive - Conestoga College\\Sem 3\\WDD\\Projects\\A5_WebServer\\myOwnWebServer\\Web-Server\\Web-Server\\Server.cs",
+              "RelativeToolTip": "Web-Server\\Server.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T01:18:59.559Z",
+              "WhenOpened": "2025-05-05T20:14:08.594Z",
               "EditorCaption": ""
             }
           ]
