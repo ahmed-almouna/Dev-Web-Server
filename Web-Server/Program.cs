@@ -9,14 +9,14 @@ using System.Threading.Tasks;
 
 /*
 *   File          : Program.cs
-*   Project       : PROG2001 - A5
+*   Project       : Web-Server
 *   Programmer    : Ahmed Almoune
 *   First Version : 11/24/2024
 *   Description   :
 *      The class in this file is used to create a web server. It takes CLI arguments to determine the specifics of the server (i.e. root 
 *      directory, IP, Port, etc.), and then it starts up a server to listen for requests and respond to those requests accordingly. 
 */
-namespace myOwnWebServer
+namespace WebServer
 {
     internal class Program
     {
@@ -31,7 +31,7 @@ namespace myOwnWebServer
             if ((args.Length != 3) || (validRoot.IsMatch(args[0]) == false) || (validIP.IsMatch(args[1]) == false) ||
                 (validPort.IsMatch(args[2]) == false))
             {
-                Console.WriteLine("Usage: myOwnWebServer <Directory> <IP address> <Port number> \n <Directory>  : the folder containing " +
+                Console.WriteLine("Usage: Web-Server <Directory> <IP address> <Port number> \n <Directory>  : the folder containing " +
                     "the assets (e.g. C:\\localWebSite) \n <IP address> : the IP address the server will listen to (e.g. 192.168.100.23)" +
                     "\n <Port number>: the port number the server will listen to (e.g 5300) \n");
 

@@ -10,14 +10,14 @@ using System.Threading.Tasks;
 
 /*
 *   File          : Server.cs
-*   Project       : PROG2001 - A5
+*   Project       : Web-Server
 *   Programmer    : Ahmed Almoune
 *   First Version : 11/24/2024
 *   Description   :
 *      The class in this file represents a web server. It can listen for requests over a specified socket and respond appropriately using 
 *      the HTTP protocol.
 */
-namespace myOwnWebServer
+namespace WebServer
 {
     internal class Server
     {
@@ -118,7 +118,7 @@ namespace myOwnWebServer
             /* response' elements */
             string responseCode = string.Empty;
             DateTime timeStamp = DateTime.Now;
-            string server = "myOwnWebServer";
+            string server = "Web-Server";
             string responseContentType = string.Empty;
             string responseBody = string.Empty;
             string responseMessage = string.Empty;

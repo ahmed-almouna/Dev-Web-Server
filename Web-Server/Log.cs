@@ -7,17 +7,17 @@ using System.Threading.Tasks;
 
 /*
 *   File          : Log.cs
-*   Project       : PROG2001 - A5
+*   Project       : Web-Server
 *   Programmer    : Ahmed Almoune
 *   First Version : 11/24/2024
 *   Description   :
 *      The class in this file represents a logger class. it allows other classes to log their activities into a time-stamped log file.
 */
-namespace myOwnWebServer
+namespace WebServer
 {
     internal class Log
     {
-        private readonly string fullPath = "myOwnWebServer.Log";
+        private readonly string fullPath = "Web-Server.Log";
         private StreamWriter sw;
 
         /* create/overwrite the file */
