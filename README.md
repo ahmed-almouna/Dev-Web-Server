@@ -23,7 +23,7 @@ The server needs the following arguments:
 
 For example:
    ```
-   webServer.exe C:\localWebSite 172.2.16.10 14000
+   Web-Server.exe C:\localWebSite 172.2.16.10 14000
    ```
 The server will now listen for requests on 172.2.16.10 14000, and serve files found in C:\localWebSite.
 
