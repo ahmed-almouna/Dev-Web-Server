@@ -1,7 +1,0 @@
-2024-11-27 14:17:33 [SERVER STARTED] - webRoot=car webIP=10.144.110.109 webPort=13000
-2024-11-27 14:17:35 [REQUEST]  - verb=GET resource=/cat.jpg
-2024-11-27 14:17:35 [RESPONSE] - Content-Type=image/jpeg Content-Length=6348 Server=myOwnWebServer
-2024-11-27 14:17:41 [REQUEST]  - verb=GET resource=/cat.jpg
-2024-11-27 14:17:41 [RESPONSE] - Content-Type=image/jpeg Content-Length=6348 Server=myOwnWebServer
-2024-11-27 14:21:24 [REQUEST]  - verb=GET resource=/cat.jpg
-2024-11-27 14:21:24 [RESPONSE] - Content-Type=image/jpeg Content-Length=6348 Server=myOwnWebServer

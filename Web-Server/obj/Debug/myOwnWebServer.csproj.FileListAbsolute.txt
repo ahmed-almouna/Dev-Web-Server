@@ -1,7 +1,0 @@
-C:\Users\admmo\source\repos\Sem 3\WDD\A5_WebServer\myOwnWebServer\myOwnWebServer\bin\Debug\myOwnWebServer.exe.config
-C:\Users\admmo\source\repos\Sem 3\WDD\A5_WebServer\myOwnWebServer\myOwnWebServer\bin\Debug\myOwnWebServer.exe
-C:\Users\admmo\source\repos\Sem 3\WDD\A5_WebServer\myOwnWebServer\myOwnWebServer\bin\Debug\myOwnWebServer.pdb
-C:\Users\admmo\source\repos\Sem 3\WDD\A5_WebServer\myOwnWebServer\myOwnWebServer\obj\Debug\myOwnWebServer.csproj.AssemblyReference.cache
-C:\Users\admmo\source\repos\Sem 3\WDD\A5_WebServer\myOwnWebServer\myOwnWebServer\obj\Debug\myOwnWebServer.csproj.CoreCompileInputs.cache
-C:\Users\admmo\source\repos\Sem 3\WDD\A5_WebServer\myOwnWebServer\myOwnWebServer\obj\Debug\myOwnWebServer.exe
-C:\Users\admmo\source\repos\Sem 3\WDD\A5_WebServer\myOwnWebServer\myOwnWebServer\obj\Debug\myOwnWebServer.pdb

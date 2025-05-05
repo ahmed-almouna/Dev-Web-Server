@@ -5,3 +5,10 @@ C:\Users\admmo\Desktop\Backup\OneDrive - Conestoga College\Sem 3\WDD\Projects\A5
 C:\Users\admmo\Desktop\Backup\OneDrive - Conestoga College\Sem 3\WDD\Projects\A5_WebServer\myOwnWebServer\Web-Server\myOwnWebServer\obj\Debug\Web-Server.csproj.CoreCompileInputs.cache
 C:\Users\admmo\Desktop\Backup\OneDrive - Conestoga College\Sem 3\WDD\Projects\A5_WebServer\myOwnWebServer\Web-Server\myOwnWebServer\obj\Debug\myOwnWebServer.exe
 C:\Users\admmo\Desktop\Backup\OneDrive - Conestoga College\Sem 3\WDD\Projects\A5_WebServer\myOwnWebServer\Web-Server\myOwnWebServer\obj\Debug\myOwnWebServer.pdb
+C:\Users\admmo\Desktop\Backup\OneDrive - Conestoga College\Sem 3\WDD\Projects\A5_WebServer\myOwnWebServer\Web-Server\Web-Server\bin\Debug\Web-Server.exe.config
+C:\Users\admmo\Desktop\Backup\OneDrive - Conestoga College\Sem 3\WDD\Projects\A5_WebServer\myOwnWebServer\Web-Server\Web-Server\bin\Debug\Web-Server.exe
+C:\Users\admmo\Desktop\Backup\OneDrive - Conestoga College\Sem 3\WDD\Projects\A5_WebServer\myOwnWebServer\Web-Server\Web-Server\bin\Debug\Web-Server.pdb
+C:\Users\admmo\Desktop\Backup\OneDrive - Conestoga College\Sem 3\WDD\Projects\A5_WebServer\myOwnWebServer\Web-Server\Web-Server\obj\Debug\Web-Server.csproj.AssemblyReference.cache
+C:\Users\admmo\Desktop\Backup\OneDrive - Conestoga College\Sem 3\WDD\Projects\A5_WebServer\myOwnWebServer\Web-Server\Web-Server\obj\Debug\Web-Server.csproj.CoreCompileInputs.cache
+C:\Users\admmo\Desktop\Backup\OneDrive - Conestoga College\Sem 3\WDD\Projects\A5_WebServer\myOwnWebServer\Web-Server\Web-Server\obj\Debug\Web-Server.exe
+C:\Users\admmo\Desktop\Backup\OneDrive - Conestoga College\Sem 3\WDD\Projects\A5_WebServer\myOwnWebServer\Web-Server\Web-Server\obj\Debug\Web-Server.pdb
