@@ -1,5 +1,5 @@
 # Web-Server
-A simple HTTP server implemented in C# that handles HTTP GET requests over TCP/IP. It serves files such as HTML, JPG, TXT, and GIF, making it ideal for local development and testing environments.
+A simple HTTP server implemented in C# that handles HTTP GET requests over TCP/IP. It serves files such as HTML, JPG, TXT, and GIF, making it ideal for local development and testing environments. 
 
 ## Features:
 - Handles HTTP GET requests.
